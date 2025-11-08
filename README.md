@@ -28,6 +28,15 @@ Bu repo, Kodluyoruz Python eğitiminde ilk iki haftada işlenen konulara ait öd
 - Ekrana çıktı verme (print())
 - Fonksiyon içinde fonksiyon çağırma (emeklilik kontrolü senaryosunda kullanıldı)
 
+📚 İçerik / ödev 4
+- Sözlük veri yapısı (dict)
+- İç içe sözlük kullanımı (öğrenci → ders → not)
+- Değer güncelleme (dict[key][subkey] = value)
+- Yeni anahtar ve değer ekleme (yeni öğrenci, yeni ders)
+- Kullanıcıdan veri alma (input())
+- Koşul kontrolü (if, in)
+- Hata kontrolü ve kullanıcıya geri bildirim
+- Dinamik sorgulama: girilen isim ve ders bilgisine göre notu ekrana yazdırma
 
  
 ## 👩‍💻 Katkı
