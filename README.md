@@ -19,6 +19,16 @@ Bu repo, Kodluyoruz Python eğitiminde ilk iki haftada işlenen konulara ait öd
 - String birleştirme ve çıktı formatlama (print() içinde değişken kullanımı)
 - Basit doğrulama mantığı (şifre uzunluğu kontrolü)
 
+ ## 📚 İçerik / ödev 3
+- Fonksiyon tanımlama (def)
+- Parametre kullanımı (doğum yılı, güncel yıl)
+- Aritmetik işlem (-) ile yaş hesaplama
+- return ifadesiyle değer döndürme
+- Fonksiyon çıktısını başka fonksiyonlarda kullanma (modüler yapı için temel)
+- Ekrana çıktı verme (print())
+- Fonksiyon içinde fonksiyon çağırma (emeklilik kontrolü senaryosunda kullanıldı)
+
+
  
 ## 👩‍💻 Katkı
 Bu ödevler, Nisa AVCI tarafından hazırlanmıştır.
