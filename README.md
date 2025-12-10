@@ -83,6 +83,7 @@ Oluşturulan arrayin boyut, eleman sayısı bilgilerine bakalım.
 Üç boyutlu arraydaki 6,20 elemanlarına ulaşalım.
 
 5. 5 satır 3 sütunluk sıfırlardan ve birlerden oluşan iki tane iki boyutlu array oluşturalım. Bu arrayleri satır ve sütun bazında birleştirelim.
+   
 📚 İçerik / ödev 7
 sozluk = {"Kategori": ["Giyim","Giyim", "Ayakkabı","Aksesuar","Ayakkabı","Giyim","Aksesuar","Aksesuar","Ayakkabı","Giyim"],
 
@@ -117,11 +118,15 @@ Giyim kategorisinde fiyatı 300'den fazla olan ürünler gösterilir.
 Ayakkabı kategorisinde fiyatı 600'den az olan ürünler gösterilir.
 
 Aksesuar kategorisinde fiyatı 100'den fazla olan aksesuar gösterilir.
+
+
 📚 İçerik / ödev 8
 Paylaşılan Student_Performance veri seti üzerinde istenilen çalışmaları yapılır
 
+
 📚 İçerik / ödev 9
 Student_Performance_Teaching_Effectiveness  veri seti üzerinde incelemeler yapılır.
+
 
 ## 👩‍💻 Katkı
 Bu ödevler, Nisa AVCI tarafından hazırlanmıştır.
