@@ -48,6 +48,7 @@ Bu repo, Kodluyoruz Python eğitiminde ilk iki haftada işlenen konulara ait öd
 - Kullanıcıya ulaşmak istediği bilgileri sorma
 
 📚 İçerik / ödev 6
+
 1.Sayılardan oluşan bir boyutlu array oluşturun. Arrayi oluştururken sayıların veri tipini integer olarak belirtelim.
 
 Oluşturulan arrayin boyut, eleman sayısı bilgilerine bakalım.
@@ -85,6 +86,7 @@ Oluşturulan arrayin boyut, eleman sayısı bilgilerine bakalım.
 5. 5 satır 3 sütunluk sıfırlardan ve birlerden oluşan iki tane iki boyutlu array oluşturalım. Bu arrayleri satır ve sütun bazında birleştirelim.
    
 📚 İçerik / ödev 7
+
 sozluk = {"Kategori": ["Giyim","Giyim", "Ayakkabı","Aksesuar","Ayakkabı","Giyim","Aksesuar","Aksesuar","Ayakkabı","Giyim"],
 
   "Ürün" : ["Kazak","T-shirt","Sandalet","Küpe","Spor Ayakkabı","Pantolon","Kolye","Yüzük","Çizme","Ceket"],
@@ -121,10 +123,12 @@ Aksesuar kategorisinde fiyatı 100'den fazla olan aksesuar gösterilir.
 
 
 📚 İçerik / ödev 8
+
 Paylaşılan Student_Performance veri seti üzerinde istenilen çalışmaları yapılır
 
 
 📚 İçerik / ödev 9
+
 Student_Performance_Teaching_Effectiveness  veri seti üzerinde incelemeler yapılır.
 
 
