@@ -1,6 +1,6 @@
-# Kodluyoruz Python Ödevleri – 2 Hafta
 
-Bu repo, Kodluyoruz Python eğitiminde ilk iki haftada işlenen konulara ait ödevleri içermektedir. Her ödev, temel Python kavramlarını pekiştirmek amacıyla hazırlanmıştır.
+
+Bu repo, Kodluyoruz Python eğitiminde işlenen konulara ait ödevleri içermektedir. Her ödev, temel Python kavramlarını pekiştirmek amacıyla hazırlanmıştır.
 
 ## 📚 İçerik /ödev 1
 - Veri tipi dönüşümleri (`int`, `float`, `str`)
@@ -130,6 +130,9 @@ Paylaşılan Student_Performance veri seti üzerinde istenilen çalışmaları y
 📚 İçerik / ödev 9
 
 Student_Performance_Teaching_Effectiveness  veri seti üzerinde incelemeler yapılır.
+
+
+
 
 
 ## 👩‍💻 Katkı
